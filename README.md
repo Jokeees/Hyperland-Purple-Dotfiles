@@ -1,1 +1,1 @@
-# Hyperland-Purple-Dotfiles
+# Hyperland Purple Dotfiles
